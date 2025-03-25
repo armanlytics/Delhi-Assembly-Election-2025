@@ -1,6 +1,6 @@
 # 🗳️ Delhi Assembly Election 2025 Analysis  
 
-An interactive Power BI dashboard analyzing the Delhi Assembly Election 2025, providing insights into candidate performance, party-wise results, voting trends, and constituency-level analysis.  
+An interactive Power BI dashboard analyzing the Delhi Assembly Election 2025, providing insights into party performance, voter turnout, and constituency-level results.  
 
 ---
 
@@ -11,7 +11,25 @@ An interactive Power BI dashboard analyzing the Delhi Assembly Election 2025, pr
 ---
 
 ## 📊 **Key Insights**  
-- **Candidate Performance:** Identified top-performing candidates based on vote share and winning margin.  
-- **Party-Wise Results:** Analyzed vote distribution and seat share across major parties.  
-- **Voting Overview:** Explored voter turnout trends, including total votes polled and participation rates.  
-- **Constituency Insights:** Examined region-wise voting patterns and key battleground constituencies.  
+
+### 📌 **Page 1: Party Performance**  
+- BJP won **48 seats**, while AAP secured **22 seats**.  
+- A **pie chart** displays the **party-wise vote share** in percentage.  
+
+### 🗳️ **Page 2: Voting Overview**  
+- Shows **total votes**, **total EVM votes**, **total postal votes**, and **NOTA votes**.  
+- Highlights the **top party by vote share**.  
+- A **filter option** allows selecting a party to view its complete vote distribution.  
+
+### 📍 **Page 3: Constituency-Wise Performance**  
+- Selecting a **constituency** displays:  
+  - **Total votes** in that constituency  
+  - **Total EVM votes** & **Total postal votes**  
+  - **Winner, runner-up, and second runner-up** in that constituency  
+
+### 👤 **Page 4: Candidate Performance**  
+- Selecting a **constituency** reveals the **performance of all candidates** in that area.  
+
+---
+
+🚀 This dashboard provides a **comprehensive analysis** of the Delhi Assembly Election 2025, helping to explore key election trends and insights interactively.  
